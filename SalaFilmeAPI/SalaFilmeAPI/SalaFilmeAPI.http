@@ -1,0 +1,6 @@
+@SalaFilmeAPI_HostAddress = http://localhost:5123
+
+GET {{SalaFilmeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
