@@ -4,18 +4,22 @@
     {
         public Filme()
         {
+            Cinemas = new List<Cinema>();
         }
 
-        public Filme(string nome, string diretor, string duracao)
+        public Filme(string nome, string diretor, string duracao, int ano) : this()
         {
-            this.Nome = nome;
-            this.Diretor = diretor;
-            this.Duracao = duracao;
+            Nome = nome;
+            Diretor = diretor;
+            Duracao = duracao;
+            Ano = ano;
         }
-         
+
         public int Id { get; protected set; }
         public string Nome { get; protected set; }
         public string Diretor { get; protected set; }
         public string Duracao { get; protected set; }
+        public int Ano { get; protected set; }
+        public virtual IList<Cinema> Cinemas { get; protected set; }
     }
 }

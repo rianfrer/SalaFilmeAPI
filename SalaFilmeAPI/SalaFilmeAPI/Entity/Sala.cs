@@ -4,16 +4,16 @@
     {
         public Sala()
         {
+            Cinemas = new List<Cinema>();
         }
 
-        public Sala(string descricao)
+        public Sala(string descricao) : this()
         {
-            this.Descricao = descricao;
+            Descricao = descricao;
         }
 
         public int Id { get; protected set; }
         public string Descricao { get; protected set; }
-
-        public virtual IList<Filme> Filmes { get; protected set; } // Uma sala pode ter varios filmes
+        public virtual IList<Cinema> Cinemas { get; protected set; } 
     }
 }

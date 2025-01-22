@@ -6,7 +6,7 @@ namespace SalaFilmeAPI.DTOs
     {
         public string Descricao { get; set; }
 
-        public static implicit operator Sala(SalaDTO dto)
+        public static implicit operator Sala(SalaDTO dto)  // Conversão implícita de SalaDTO para Sala
             => new Sala(dto.Descricao);
     }
 }
