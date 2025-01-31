@@ -4,7 +4,6 @@
     {
         public Sala()
         {
-            Cinemas = new List<Cinema>();
         }
 
         public Sala(string descricao) : this()
@@ -14,6 +13,5 @@
 
         public int Id { get; protected set; }
         public string Descricao { get; protected set; }
-        public virtual IList<Cinema> Cinemas { get; protected set; } 
     }
 }

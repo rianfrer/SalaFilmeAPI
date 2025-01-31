@@ -5,7 +5,9 @@ namespace SalaFilmeAPI.Infra
 {
     public class AppDbContext : DbContext
     {
-        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+        }
 
         public DbSet<Sala> Salas { get; set; }
         public DbSet<Filme> Filmes { get; set; }
@@ -17,17 +19,6 @@ namespace SalaFilmeAPI.Infra
             builder.Entity<Sala>().HasKey(s => s.Id);
             builder.Entity<Filme>().HasKey(f => f.Id);
             builder.Entity<Cinema>().HasKey(c => c.Id);
-
-            // Configuração de relacionamento muitos-para-muitos via tabela Cinema
-            builder.Entity<Cinema>()
-                .HasOne(c => c.Sala)
-                .WithMany(s => s.Cinemas)
-                .HasForeignKey(c => c.SalaId);
-
-            builder.Entity<Cinema>()
-                .HasOne(c => c.Filme)
-                .WithMany(f => f.Cinemas)
-                .HasForeignKey(c => c.FilmeId);
 
             base.OnModelCreating(builder);
         }

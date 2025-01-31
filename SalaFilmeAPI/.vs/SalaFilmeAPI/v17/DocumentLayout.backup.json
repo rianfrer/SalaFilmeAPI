@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\infra\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\infra\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\dtos\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\dtos\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\entity\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\entity\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\dtos\\saladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\dtos\\saladto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\entity\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\entity\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\dtos\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\dtos\\filmedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\dtos\\cinemadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,12 +31,8 @@
       "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\entity\\cinema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\entity\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\entity\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\entity\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\entity\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|c:\\users\\rianf\\onedrive\\\u00E1rea de trabalho\\projetos\\salavideoapi\\salafilmeapi\\salafilmeapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5265D65E-735A-4CFE-AFDF-3FEC5B8C001B}|SalaFilmeAPI\\SalaFilmeAPI.csproj|solutionrelative:salafilmeapi\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,76 +42,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "CinemaController.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Controllers\\CinemaController.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\Controllers\\CinemaController.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Controllers\\CinemaController.cs",
               "RelativeToolTip": "SalaFilmeAPI\\Controllers\\CinemaController.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T21:05:04.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Infra\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\Infra\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Infra\\AppDbContext.cs",
               "RelativeToolTip": "SalaFilmeAPI\\Infra\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:24:11.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "SalaDTO.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\SalaDTO.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\DTOs\\SalaDTO.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\SalaDTO.cs",
               "RelativeToolTip": "SalaFilmeAPI\\DTOs\\SalaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T21:23:26.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FilmeDTO.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\FilmeDTO.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\DTOs\\FilmeDTO.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\FilmeDTO.cs",
               "RelativeToolTip": "SalaFilmeAPI\\DTOs\\FilmeDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T21:23:38.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CinemaDTO.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\CinemaDTO.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\DTOs\\CinemaDTO.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\DTOs\\CinemaDTO.cs",
               "RelativeToolTip": "SalaFilmeAPI\\DTOs\\CinemaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T19:56:32.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Sala.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Entity\\Sala.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\Entity\\Sala.cs",
@@ -124,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Entity\\Filme.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\Entity\\Filme.cs",
@@ -137,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Cinema.cs",
               "DocumentMoniker": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Entity\\Cinema.cs",
               "RelativeDocumentMoniker": "SalaFilmeAPI\\Entity\\Cinema.cs",
               "ToolTip": "C:\\Users\\rianf\\OneDrive\\\u00C1rea de Trabalho\\projetos\\SalaVideoAPI\\SalaFilmeAPI\\SalaFilmeAPI\\Entity\\Cinema.cs",
               "RelativeToolTip": "SalaFilmeAPI\\Entity\\Cinema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T15:45:18.602Z",
               "EditorCaption": ""
